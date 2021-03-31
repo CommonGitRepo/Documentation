@@ -1,0 +1,37 @@
+Default Show Actiev APtient 
+Show All Patients
+
+Sorting on 
+
+vee-validation link send to
+
+Form Should Show Image
+
+Custamized error message
+
+Radio Buttons and its validation
+
+dimension for image validation
+500kb max size of image
+
+64 X 64
+
+Date Picker Setup
+
+
+On Dashboard View we need to have 2 route view's 
+Example
+	Display Patient List in the 1st rout view RV1
+	Display All Aptient Summary in the second route View RV2
+	In case we click on particular patient we should be able to see the summary of that patient
+		Pending Bill
+		Due 
+		Add Payment Link 
+		RV2 will be modified for accepting the bill for viewd patient
+
+
+Community and Profession VS comparision
+
+
+Push API to git
+

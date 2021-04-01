@@ -35,3 +35,19 @@ Community and Profession VS comparision
 
 Push API to git
 
+
+Date - 01-04-2021
+Form Should Show Image
+Dimension for 64 X 64
+Custammized Error
+2nd View Navgation
+
+Pending
+Radio Button validation
+Date Picker configuration
+
+TODO - 01-04-2019
+Date Picker
+Authorisatio  Authentication
+Glbalization
+

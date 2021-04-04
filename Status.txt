@@ -51,3 +51,12 @@ Date Picker
 Authorisatio  Authentication
 Glbalization
 
+
+
+Date - 04-04-2021
+
+Date validation for min date and Max Date
+Pagination
+Parent to child 
+Child to parent Data Communication
+
